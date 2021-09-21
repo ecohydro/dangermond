@@ -1,10 +1,5 @@
-## Welcome to GitHub Pages
+## Developing and Implementing Novel Tools for Assessing Riparian Ecosystem Resilience at the Dangermond Preserve
 
-You can use the [editor on GitHub](https://github.com/ecohydro/dangermond/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Developing and Implementing Novel Tools for Assessing Riparian Ecosystem Resilience at the Dangermond Preserve
 
 Dr. Kelly K. Caylor
 Professor, Bren School of Environmental Science & Management and Department of Geography
@@ -12,6 +7,19 @@ Director, Earth Research Institute
 
 Bryn Morgan
 Ph.D. Candidate and Research Associate, Department of Geography
+
+
+You can use the [editor on GitHub](https://github.com/ecohydro/dangermond/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Project Goals
+
+
+### Project Accomplishments
+
+
+
 
 
 ```markdown
