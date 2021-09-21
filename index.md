@@ -4,9 +4,15 @@ You can use the [editor on GitHub](https://github.com/ecohydro/dangermond/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Developing and Implementing Novel Tools for Assessing Riparian Ecosystem Resilience at the Dangermond Preserve
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dr. Kelly K. Caylor
+Professor, Bren School of Environmental Science & Management and Department of Geography
+Director, Earth Research Institute
+
+Bryn Morgan
+Ph.D. Candidate and Research Associate, Department of Geography
+
 
 ```markdown
 Syntax highlighted code block
